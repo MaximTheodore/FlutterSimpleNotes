@@ -1,10 +1,8 @@
-import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_listview_note/model/NoteItem.dart';
-import 'package:flutter_listview_note/provider/NoteItemProvider.dart';
 import 'package:provider/provider.dart';
 
+import 'package:flutter_listview_note/provider/NoteItemProvider.dart';
 
 void main() {
   runApp(
